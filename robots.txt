@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+
+# Sitemap for search engines
+Sitemap: https://griddigitals-blog.netlify.app/sitemap.xml
